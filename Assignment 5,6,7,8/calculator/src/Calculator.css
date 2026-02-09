@@ -1,0 +1,52 @@
+.calculator-card {
+  width: 320px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 12px;
+  background: #1e293b;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  color: white;
+}
+
+.calculator-card h3 {
+  margin-bottom: 15px;
+}
+
+.calculator-card input {
+  width: 90%;
+  padding: 8px;
+  margin: 8px 0;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+}
+
+.button-group {
+  margin-top: 10px;
+}
+
+.button-group button {
+  width: 60px;
+  margin: 5px;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: #38bdf8;
+  color: black;
+}
+
+.button-group button:hover {
+  background: #0ea5e9;
+}
+
+.result-box {
+  margin-top: 15px;
+  padding: 10px;
+  background: white;
+  color: black;
+  border-radius: 6px;
+  font-weight: bold;
+}
