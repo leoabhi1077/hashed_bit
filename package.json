@@ -1,0 +1,11 @@
+{
+  "name": "hashedbit_assign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run1": "node \"ASSIGNMENT 2/assign2.1.js\"",
+    "run2": "node \"ASSIGNMENT 2/assign2.2.js\"",
+    "run3": "node \"ASSIGNMENT 2/assign2.3.js\"",
+    "run4": "node \"ASSIGNMENT 2/assign2.4.js\""
+  }
+}

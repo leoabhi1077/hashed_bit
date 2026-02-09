@@ -1,0 +1,21 @@
+.calculator-card {
+    padding: 30px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    max-width: 350px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+input, select, button {
+    margin: 15px 0;
+    padding: 15px;
+    width: 90%;
+}
+
+#result-display {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #333;
+}
